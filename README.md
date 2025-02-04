@@ -65,8 +65,8 @@ This exercise explores functional programming concepts in Java, including lambda
 
 ## Technologies
 
-- Java JDK 22 (or specify your JDK version)
-- IntelliJ IDEA (or specify your IDE)
+- Java JDK 22 
+- IntelliJ IDEA 
 - Git
 - GitHub
 
